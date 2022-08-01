@@ -1,0 +1,2 @@
+Fill this in before the final project deadline. Someone who has _no familiarity_ with your project should be able to read this and understand:
+This is a euchre game player, you are player 0, your teamate is player 2 and you are on team 1, currently the computer strategy isn't sophisticated  simply run the game to play, and when it is your turn click on the button or card that you want to play. 
